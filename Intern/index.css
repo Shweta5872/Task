@@ -1,0 +1,13 @@
+.form{
+    background-color: rgb(147, 241, 241);
+    width: 30%;
+    height: auto;
+    margin:  15% auto;
+    padding: 25px 10px;
+
+    justify-content: center;
+    align-items: center;
+}
+
+
+
